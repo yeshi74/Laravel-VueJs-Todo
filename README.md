@@ -1,7 +1,8 @@
 This is Laravel and VueJs Todo SPA application.  
-Clone this repository  
-Configure your .env file and database  
-php artisan migrate  
+1. Clone this repository  
+2. Configure your .env file and database  
+3. php artisan migrate  
+
 That's it! you are good to go now.  
 Feel free to use this project and play!  
 
